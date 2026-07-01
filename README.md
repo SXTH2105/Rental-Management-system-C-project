@@ -12,20 +12,24 @@ This project is a fully functional rental management system written in C, featur
 
 ## 📸 Screenshots
 
-### 🔐 Login Screen
-![Login Screen](screenshots/login.png)
-
----
-
-### 🖥️ Dashboard
-<!-- Replace the line below with your screenshot -->
-![Dashboard](screenshots/dashboard.png)
-
----
-
-### 🧾 View Bills
-<!-- Replace the line below with your screenshot -->
-![View Bills](screenshots/view_bills.png)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>🔐 Login Screen</b><br/>
+      <img src="screenshots/login.png" width="280"/>
+    </td>
+    <td align="center" width="50%">
+      <b>🖥️ Dashboard</b><br/>
+      <img src="screenshots/dashboard.png" width="280"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <b>🧾 View Bills</b><br/>
+      <img src="screenshots/view_bills.png" width="280"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
